@@ -2,7 +2,7 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace UniLib
+namespace Yorozu
 {
 	public class EditorRayCastDrawer 
 	{
